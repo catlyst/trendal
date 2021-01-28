@@ -15,10 +15,14 @@ tags:
 - renal
 - machine learning
 - time series
+- prediction
 - clinical data
 - dialysis
 - end stage
-- kidney disease
+- kidney
+- disease
+- ESRD
+- death
 ---
 
 ```{r setup, echo=FALSE, message=FALSE, warning=FALSE, results="asis",include=FALSE}
@@ -422,8 +426,6 @@ pt<-prop.test(c(sum(train.label),sum(test.label)),c(length(train.label),length(t
 pt
 test_metric<-paste0('test_',eval_metric,'_mean')
 dig.run<<-paste0(dig,'-',input$egfryears[1],'-',input$egfryears[2],'-',eval_metric,ifelse(predict_mode=='death','-d',''),ifelse(smote_flag,'-s',''),ifelse(num_ts==0,'',paste0('-ts',num_ts)))
-##TERRIBLE HACK!!
-dig.run<-'dfc0e1df26dc8cb0-2-4-mcc-ts2'
 print(dig.run)
 hyper.file<-paste0(dig.run,'.hyper.csv')
 if(file.exists(hyper.file)) {
