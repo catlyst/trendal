@@ -122,7 +122,7 @@ Project Link: [https://github.com/catlyst/trendal](https://github.com/catlyst/tr
 
 * [Simon Jiang](mailto:simon.jiang@anu.edu.au)
 * [Giles Walters](mailto:giles.walters@anu.edu.au)
-* [Danial Christiadi)(mailto:daniel.christiadi@anu.edu.au)
+* [Daniel Christiadi](mailto:daniel.christiadi@anu.edu.au)
 * [Dan Andrews](mailto:dan.andrews@anu.edu.au)
 
 
