@@ -137,6 +137,6 @@ Project Link: [https://github.com/catlyst/trendal](https://github.com/catlyst/tr
 [issues-shield]: https://img.shields.io/github/issues/catlyst/repo.svg?style=for-the-badge
 [issues-url]: https://github.com/catlyst/repo/issues
 [license-shield]: https://img.shields.io/github/license/catlyst/repo.svg?style=for-the-badge
-[license-url]: https://github.com/catlyst/repo/blob/master/LICENSE
+[license-url]: https://github.com/catlyst/trendal/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/chuah-aaron
