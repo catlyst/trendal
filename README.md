@@ -76,21 +76,6 @@
 by
 Aaron Chuah, Genome Informatics Lab, JCSMR, ANU
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
-
-
-### Built With
-
-* []()
-* []()
-* []()
-
-
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -100,6 +85,7 @@ To get a local copy up and running follow these simple steps.
 
 This is an example of how to list things you need to use the software and how to install them.
 * [Rstudio](https://rstudio.com/products/rstudio/download/#download)
+* Clinical data in the form of tab-separated value files. There is no example data for this since these are medical records, but if you send me an email, I will give you the requisite format of fields and filenames.
 
 
 ### Installation
@@ -109,7 +95,7 @@ This is an example of how to list things you need to use the software and how to
    git clone https://github.com/catlyst/trendal.git
    ```
 
-
+2. 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -125,14 +111,7 @@ See the [open issues](https://github.com/catlyst/trendal/issues) for a list of p
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
+At the moment this is restricted code being developed at our lab, but should you like to make any contributions, feature requests, bug reports or suggestions, they will be much appreciated.
 
 <!-- LICENSE -->
 ## License
@@ -143,7 +122,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@catlyst](https://twitter.com/catlyst) - chuah.aaron@gmail.com
+Your Name - [@catlyst](https://twitter.com/catlyst) - (mailto:chuah.aaron@gmail.com) or (mailto:aaron.chuah@anu.edu.au)
 
 Project Link: [https://github.com/catlyst/trendal](https://github.com/catlyst/trendal)
 
@@ -153,10 +132,8 @@ Project Link: [https://github.com/catlyst/trendal](https://github.com/catlyst/tr
 
 * [Simon Jiang](mailto:simon.jiang@anu.edu.au)
 * [Giles Walters](mailto:giles.walters@anu.edu.au)
+* [Danial Christiadi)(mailto:daniel.christiadi@anu.edu.au)
 * [Dan Andrews](mailto:dan.andrews@anu.edu.au)
-
-
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
