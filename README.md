@@ -61,7 +61,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Aaron Chuah - [email](mailto:aaron.chuah@anu.edu.au) [@catlyst](https://twitter.com/catlyst) [![LinkedIn][linkedin-shield]][linkedin-url] 
+Aaron Chuah - [aaron.chuah@anu.edu.au](mailto:aaron.chuah@anu.edu.au) [@catlyst](https://twitter.com/catlyst) [![LinkedIn][linkedin-shield]][linkedin-url] 
 
 
 <!-- ACKNOWLEDGEMENTS -->
