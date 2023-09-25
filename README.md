@@ -17,20 +17,17 @@
   <h3 align="center">Time-series Renal ENd-stage Decision-Assisting Learner</h3>
 
   <p align="center">
-    XGBoost ML vs 6 TCH Clincians on ESRD & Death prediction, for the publication "Machine learning improves upon clinicians’ prediction of end stage renal failure" <a href="doi:10.3389/fmed.2022.837232">https://doi.org/10.3389/fmed.2022.837232</a>
+    XGBoost ML vs 6 TCH Clincians on ESRD & Death prediction, for the publication "Machine learning improves upon clinicians’ prediction of end stage renal failure"
     <br />
-    <a href="https://github.com/catlyst/trendal"><strong>Explore the docs »</strong></a>
+    <a href="doi:10.3389/fmed.2022.837232">https://doi.org/10.3389/fmed.2022.837232</a>
     <br />
-    <br />
-    <a href="https://github.com/catlyst/trendal">View Demo</a>
+    <a href="https://github.com/catlyst/trendal">
     ·
     <a href="https://github.com/catlyst/trendal/issues">Report Bug</a>
     ·
     <a href="https://github.com/catlyst/trendal/issues">Request Feature</a>
   </p>
 </p>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
