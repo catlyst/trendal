@@ -88,7 +88,7 @@ Aaron Chuah - (mailto:chuah.aaron@gmail.com) / (mailto:aaron.chuah@anu.edu.au) [
 [issues-shield]: https://img.shields.io/github/issues/catlyst/repo.svg?style=for-the-badge
 [issues-url]: https://github.com/catlyst/repo/issues
 [license-shield]: https://img.shields.io/github/license/catlyst/repo.svg?style=for-the-badge
-[license-url]: https://github.com/catlyst/trendal/tree/LICENSE
+[license-url]: https://github.com/catlyst/trendal/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/chuah-aaron
 
