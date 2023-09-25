@@ -1,7 +1,5 @@
 # trendal: Time-series Renal ENd-stage Decision-Assisting Learner
 
-[![MIT License][license-shield]][license-url]
-
 ## Table of Contents
 
 * [About the Project](#about-the-project)
