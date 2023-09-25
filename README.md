@@ -1,67 +1,23 @@
-# trendal
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
+# trendal: Time-series Renal ENd-stage Decision-Assisting Learner
 
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
-<br />
-<p align="center">
-  <h3 align="center">Time-series Renal ENd-stage Decision-Assisting Learner</h3>
+## Table of Contents
 
-  <p align="center">
-    XGBoost ML vs 6 TCH Clincians on ESRD & Death prediction, for the publication "Machine learning improves upon clinicians’ prediction of end stage renal failure"
-    <br />
-    <a href="doi:10.3389/fmed.2022.837232">https://doi.org/10.3389/fmed.2022.837232</a>
-    <br />
-    <a href="https://github.com/catlyst/trendal">
-    ·
-    <a href="https://github.com/catlyst/trendal/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/catlyst/trendal/issues">Request Feature</a>
-  </p>
-</p>
+* [About the Project](#about-the-project)
+* [Getting Started](#getting-started)
+  * [Prerequisites](#prerequisites)
+  * [Installation](#installation)
+* [Usage](#usage)
+* [Roadmap](#roadmap)
+* [License](#license)
+* [Contact](#contact)
+* [Acknowledgements](#acknowledgements)
 
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
-  </ol>
-</details>
-
-
-
-<!-- ABOUT THE PROJECT -->
 ## About The Project
 
-by
-Aaron Chuah, Genome Informatics Lab, JCSMR, ANU
+XGBoost ML vs 6 TCH Clincians on ESRD & Death prediction, for the publication "Machine learning improves upon clinicians’ prediction of end stage renal failure" [doi:10.3389/fmed.2022.837232](https://doi.org/10.3389/fmed.2022.837232)
+
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -107,9 +63,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@catlyst](https://twitter.com/catlyst) - (mailto:chuah.aaron@gmail.com) or (mailto:aaron.chuah@anu.edu.au)
-
-Project Link: [https://github.com/catlyst/trendal](https://github.com/catlyst/trendal)
+Aaron Chuah - (mailto:chuah.aaron@gmail.com) / (mailto:aaron.chuah@anu.edu.au) [![LinkedIn][linkedin-shield]][linkedin-url] [@catlyst](https://twitter.com/catlyst)
 
 
 <!-- ACKNOWLEDGEMENTS -->
@@ -119,7 +73,9 @@ Project Link: [https://github.com/catlyst/trendal](https://github.com/catlyst/tr
 * [Giles Walters](mailto:giles.walters@anu.edu.au)
 * [Daniel Christiadi](mailto:daniel.christiadi@anu.edu.au)
 * [Dan Andrews](mailto:dan.andrews@anu.edu.au)
-
+* [The John Curtin School of Medical Research](https://jcsmr.anu.edu.au/)
+* [The Australian National University](https://www.anu.edu.au)
+* [National Computational Infrastructure](https://nci.org.au)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -132,6 +88,7 @@ Project Link: [https://github.com/catlyst/trendal](https://github.com/catlyst/tr
 [issues-shield]: https://img.shields.io/github/issues/catlyst/repo.svg?style=for-the-badge
 [issues-url]: https://github.com/catlyst/repo/issues
 [license-shield]: https://img.shields.io/github/license/catlyst/repo.svg?style=for-the-badge
-[license-url]: https://github.com/catlyst/trendal/blob/main/LICENSE
+[license-url]: https://github.com/catlyst/trendal/tree/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/chuah-aaron
+
